@@ -11,14 +11,14 @@ Performed exploratory data analysis (EDA) to uncover trends in customer lifetime
 Visualized customer segments and sales trends to assist in designing personalized marketing campaigns and loyalty programs.\
 Developed insights to support sales forecasting and improve customer experience strategies.
 
-**Charts**:\
+**Charts:**
 1	Number of Customers\
 2	Number of Purchases\
 3	Total Spend\
 4	Total Spend by Location\
-5	Total Spend by Gender\
+5	Total Spend by Membership Type\
 6	Count of Churned Customers\
-7	Count of Purchases by Age\
+7	Count of Purchases by Age/
 8	Count of Purchases by Time
 
 **Tools Used**: Excel.
